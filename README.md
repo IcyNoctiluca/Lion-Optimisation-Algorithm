@@ -1,6 +1,4 @@
-# NC_LOA
-
-Assignment Natural Computing
+# Lion Optimisation Algorithm Implementation
 
 Based on:
 Maziar Yazdani and Fariborz Jolai. “Lion optimization algorithm (LOA): a nature-inspired
