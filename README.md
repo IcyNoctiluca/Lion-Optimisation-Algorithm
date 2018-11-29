@@ -5,6 +5,10 @@ Maziar Yazdani and Fariborz Jolai. “Lion optimization algorithm (LOA): a natur
 metaheuristic algorithm”. In: Journal of computational design and engineering 3.1 (2016),
 pp. 24–36.
 
+## Report
+
+See pdf file for full write up of findings
+
 ## LOA
 The main engine of the algorithm is the LOA_main file. In here the parameters are define and the iterative process is implemented, and the results are collected.
 
@@ -32,7 +36,3 @@ The result is saved in a .npy file.
 ## Results
 
 The results of our experiments can be found in the results folder. To plot the results run: python plot.py
-
-## Report
-
-See pdf file for full write up of findings
